@@ -1,1 +1,3 @@
 # Python_vacantion
+
+This project for searching python junior vacancies...
